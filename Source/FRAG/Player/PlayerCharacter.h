@@ -17,7 +17,6 @@ public:
 
 protected:
 	class UCameraComponent* CameraComp;
-
 	float TurnBase;
 protected:
 	// Called when the game starts or when spawned
